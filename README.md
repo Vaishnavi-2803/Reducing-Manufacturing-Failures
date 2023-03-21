@@ -1,4 +1,4 @@
-# Spotify-Data-Analysis-Project
+Spotify-Data-Analysis-Project
 This is a Data analysis project using python.
 Here, I have analysed a Dataset from kaggle based on Spotify.
 I Conducted data cleaning and visualization of the Spotify dataset using python and its libraries(Pandas, NumPy, Matplotlib, Seaborn.) 
